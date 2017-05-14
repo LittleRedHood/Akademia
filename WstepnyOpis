@@ -1,0 +1,25 @@
+LITTLE RED HOOD
+
+Little Red Hood to gra platformowa, zawierająca trzy etapy ,oparta na mechanizmie poruszania się jednej postaci za pomocą klawiszy klawiatury.
+Podczas gry użytkownik będzie musiał zmagać się z trzema rodzajami przeciwników oraz zbierać punkty. Raz na turę użytkownik może użyć supermocy bohatera.
+Program będzie wykrywał kolizję postaci z różnego rodzaju przeszkodami. W czasie gry na uczestnika czekają rozmaite niebezpieczeństwa – możliwość upadku, zetknięcie się z wrogiem ,wiszące przeszkody oraz utrata życia po przekroczonym czasie jednego etapu gry. W programie zostanie zaimplementowana ograniczona ilość żyć. 
+Istnieje możliwość zapisania obecnego stanu gry do pliku oraz jego odczytanie. Po zakończeniu rozgrywki będzie możliwość zobaczenia rankingu z najlepszymi wynikami.
+
+WSTĘPNY PRZYDZIAŁ OBOWIĄZKÓW:
+
+•	Ewa Tusień
+o	Implementacja wrogów
+o	Zapis i odczyt do pliku
+o	Ranking
+o	Mechanizm poruszania się postaci
+
+•	Karolina Makuch
+o	Wykrywanie kolizji
+o	Obsługa ilości żyć
+o	Supermoc bohatera
+
+•	Aleksandra Wilke
+o	Projekt etapów 
+o	Zbieranie punktów
+o	Grafika
+
