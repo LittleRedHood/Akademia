@@ -1,0 +1,123 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4590
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\PC\Desktop\ProjektC#\Hoodie31\Hoodie\gra_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\PC\Desktop\ProjektC#\Hoodie31\Hoodie\gra_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Desktop\ProjektC#\Hoodie31\Hoodie\gra_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\PC\Desktop\ProjektC#\Hoodie31\Hoodie\gra_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Desktop\ProjektC#\Hoodie31\Hoodie\gra_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\PC\Desktop\ProjektC#\Hoodie31\Hoodie\gra_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Desktop\ProjektC#\Hoodie31\Hoodie\gra_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\PC\Desktop\ProjektC#\Hoodie31\Hoodie\gra_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Desktop\ProjektC#\Hoodie31\Hoodie\gra_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\PC\Desktop\ProjektC#\Hoodie31\Hoodie\gra_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Desktop\ProjektC#\Hoodie31\Hoodie\gra_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Users\PC\Desktop\ProjektC#\Hoodie31\Hoodie\gra_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: C:\Users\PC\Desktop\ProjektC#\Hoodie31\Hoodie\gra_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\PC\Desktop\ProjektC#\Hoodie31\Hoodie\gra_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'DataInfo') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 2.660270 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.016002 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1193.
+Total: 2.331309 ms (FindLiveObjects: 0.064000 ms CreateObjectMapping: 0.037973 ms MarkObjects: 0.207360 ms  DeleteObjects: 2.021549 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.044054 ms
+
+Unloading 150 unused Assets to reduce memory usage. Loaded Objects now: 441.
+Total: 2.245976 ms (FindLiveObjects: 0.036693 ms CreateObjectMapping: 0.059306 ms MarkObjects: 0.149760 ms  DeleteObjects: 1.999789 ms)
+
+The referenced script on this Behaviour (Game Object 'DataInfo') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.344320 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 477.
+Total: 1.599148 ms (FindLiveObjects: 0.062293 ms CreateObjectMapping: 0.020053 ms MarkObjects: 0.194133 ms  DeleteObjects: 1.322241 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.322133 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 457.
+Total: 2.792110 ms (FindLiveObjects: 0.039680 ms CreateObjectMapping: 0.030720 ms MarkObjects: 0.273493 ms  DeleteObjects: 2.447789 ms)
+
+kasia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.522883 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1228.
+Total: 0.445013 ms (FindLiveObjects: 0.061013 ms CreateObjectMapping: 0.034133 ms MarkObjects: 0.327680 ms  DeleteObjects: 0.021760 ms)
+
+The referenced script on this Behaviour (Game Object 'DataInfo') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.042348 ms
+
+Unloading 150 unused Assets to reduce memory usage. Loaded Objects now: 481.
+Total: 4.360112 ms (FindLiveObjects: 0.051626 ms CreateObjectMapping: 0.076800 ms MarkObjects: 0.442027 ms  DeleteObjects: 3.789231 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.367360 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1228.
+Total: 2.606083 ms (FindLiveObjects: 0.060160 ms CreateObjectMapping: 0.034133 ms MarkObjects: 0.335787 ms  DeleteObjects: 2.175149 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.919467 ms
+
+Unloading 150 unused Assets to reduce memory usage. Loaded Objects now: 445.
+Total: 2.163629 ms (FindLiveObjects: 0.025600 ms CreateObjectMapping: 0.027733 ms MarkObjects: 0.186026 ms  DeleteObjects: 1.923842 ms)
+
+The referenced script on this Behaviour (Game Object 'DataInfo') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.266667 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 481.
+Total: 1.504428 ms (FindLiveObjects: 0.025173 ms CreateObjectMapping: 0.018773 ms MarkObjects: 0.203093 ms  DeleteObjects: 1.256961 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.365653 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1228.
+Total: 5.270620 ms (FindLiveObjects: 0.113066 ms CreateObjectMapping: 0.075093 ms MarkObjects: 0.969814 ms  DeleteObjects: 4.111365 ms)
+
+The referenced script on this Behaviour (Game Object 'DataInfo') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.907521 ms
+
+Unloading 150 unused Assets to reduce memory usage. Loaded Objects now: 481.
+Total: 2.129922 ms (FindLiveObjects: 0.028160 ms CreateObjectMapping: 0.029866 ms MarkObjects: 0.210346 ms  DeleteObjects: 1.861122 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2534 -> priority: 1 
+  Thread -> id: 2388 -> priority: 1 
